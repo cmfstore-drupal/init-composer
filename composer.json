@@ -1,0 +1,19 @@
+{
+  "name": "cmfstore-drupal/init-composer",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://github.com/cmfstore-drupal",
+  "keywords": ["cmfstore", "cmfstore-drupal", "init-composer"],
+  "support": {
+    "source": "https://github.com/cmfstore-drupal/init-composer",
+    "issues": "https://github.com/cmfstore-drupal/init-composer/issues",
+    "docs": "https://github.com/cmfstore-drupal/init-composer/wiki",
+    "forum": "https://github.com/cmfstore-drupal/init-composer/discussions"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
